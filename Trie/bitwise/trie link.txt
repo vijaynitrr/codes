@@ -1,0 +1,13 @@
+1.https://www.hackerearth.com/notes/trie-suffix-tree-suffix-array/
+
+2.https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/ 
+
+3.https://discuss.codechef.com/questions/15797/understanding-trie-and-its-applications
+
+problems - 
+
+4.http://www.spoj.com/problems/PHONELST/
+
+5.http://www.spoj.com/problems/DICT/
+
+6.http://www.spoj.com/problems/BTCODE_H/
